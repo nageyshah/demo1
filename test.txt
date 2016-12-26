@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 test123
 // I changed this file from github at 3:11. So there is a diff now. I will commit it so we'll see.
+=======
+// this is the line I added at 3:09
+>>>>>>> stash
+========
+OK I marged them now in local at 3:33..
+========
+
